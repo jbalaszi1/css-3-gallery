@@ -1,0 +1,13 @@
+/* Gallery Styling*/
+
+.gallery {
+    height: 500px;
+}
+
+.gallery .item {
+    background: none;
+}
+
+.controls img:hover {
+    outline: 5px solid orange;
+}
